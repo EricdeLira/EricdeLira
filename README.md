@@ -2,7 +2,7 @@
 ## I'm Eric
 
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me: ericdelira2001@gmail.com
+- 💬 Ask me about anything
 
 <div>
   <a href = "https://github.com/EricdeLira">
