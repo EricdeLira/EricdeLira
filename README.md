@@ -5,6 +5,7 @@
 - 💬 Ask me about anything
 
 <div>
+  <a href = "https://github.com/EricdeLira">
   <img width = "400em" src = "https://github-readme-stats.vercel.app/api?username=EricdeLira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img width = "395em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EricdeLira&layout=compact&langs_count=16&theme=omni"/>
 </div>
